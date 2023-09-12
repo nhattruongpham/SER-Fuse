@@ -1,2 +1,2 @@
-# mmser-mlmf-fusion
-Multi-modal Speech Emotion Recognition using Multi-lingual Multi-feature Embedding Fusion
+# SER-Fuse
+An Emotion Recognition Application Utilizing Multi-Modal, Multi-Lingual, and Multi-Feature Fusion
